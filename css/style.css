@@ -14,10 +14,10 @@ body {
 	color: white;
 }
 header{
-	/*position: fixed;
+	position: fixed;
 	padding: 10px 0;
 	background-color: rgba(48,48,48,0.5);
-	*/
+	display: inline-block;
 }
 img {
 	width: 200px;
