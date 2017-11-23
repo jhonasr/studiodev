@@ -1,4 +1,4 @@
-$(document).ready(function () {
+/*$(document).ready(function () {
   $(document).on("scroll", onScroll);
 
   $('nav a[href^="#"]').on('click', function (e) {
